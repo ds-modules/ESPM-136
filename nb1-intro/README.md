@@ -1,6 +1,6 @@
 # Introduction Notebook
 
-Open the notebook on datahub : [![Repo on DataHub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FIB-C32&urlpath=tree%2FIB-C32%2Fintro%2Fintro.ipynb&branch=main)
+Open the notebook on datahub : 
 
 This notebook includes instructions on the following:
 
