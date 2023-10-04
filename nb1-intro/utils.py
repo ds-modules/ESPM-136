@@ -33,10 +33,12 @@ def feedback_button() -> None:
     }
     </style>
 
-    <a href="https://forms.gle/hipxf2uFw5Ud4Hyn8">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScDK227bq_qLJDLsysk-UOEXy7G6_7YuYHGp2ogzeRBh4OvEw/viewform">
         <button class="button">
             Fill out the feedback form here
         </button>
     </a>
     '''
     display(HTML(button))
+
+
